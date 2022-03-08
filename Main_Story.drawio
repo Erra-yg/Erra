@@ -1,0 +1,1472 @@
+<mxfile host="app.diagrams.net" modified="2022-02-15T16:11:03.196Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Z4ejVuIP2Q3X6u79gcLM" version="16.5.3" type="github" pages="2">
+  <diagram id="zyDCrejPLuzoxUUW_ajp" name="第 2 页">
+    <mxGraphModel dx="2874" dy="2733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="2000" math="0" shadow="0">
+      <root>
+        <mxCell id="86R7xMVkecqIQZ7jBpjA-0" />
+        <mxCell id="86R7xMVkecqIQZ7jBpjA-1" parent="86R7xMVkecqIQZ7jBpjA-0" />
+        <mxCell id="rYfP52hOGVVlLULM5CNo-8" value="&lt;font style=&quot;font-size: 20px&quot;&gt;物理——主线支线事件一览&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="86R7xMVkecqIQZ7jBpjA-1" vertex="1">
+          <mxGeometry x="-81.25" y="-1980" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-10" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" parent="86R7xMVkecqIQZ7jBpjA-1" vertex="1">
+          <mxGeometry x="-211.25" y="-1865" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-11" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;" parent="86R7xMVkecqIQZ7jBpjA-1" vertex="1">
+          <mxGeometry x="-51.25" y="-1865" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-12" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=20;position2=0.33;size=10;position=0.33;base=5;" parent="86R7xMVkecqIQZ7jBpjA-1" vertex="1">
+          <mxGeometry x="68.75" y="-1865" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-203" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;【设定插入】有关两个贤者的抗性分布。&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;两个贤者(包括其他贤者，也包括uuz四季老佛爷等最高级别存在)都自带对这种疾病的免疫，机理是其自身具有能力。&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="86R7xMVkecqIQZ7jBpjA-1" vertex="1">
+          <mxGeometry x="760" y="732.5" width="205.5" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-205" value="&lt;font style=&quot;font-size: 15px&quot;&gt;经典力学：&lt;br&gt;惯性参考系与转动参考系&lt;br&gt;最小作用量原理、守恒律、守恒律及其参考系变换&lt;br&gt;牛顿万有引力和天体运动基础（我想可能得废之前的稿了）&lt;br&gt;连续体（流体/弹性体概念基础）&lt;br&gt;电磁学：&lt;br&gt;静电场和静磁场的产生规律&lt;br&gt;电路的基本原理&lt;br&gt;电磁波的形成（波导放支线吧）&lt;br&gt;等离子体理论基础（很有必要，哪里都是等离子体、从一杯溶液到太阳表面的磁环全是它）&lt;br&gt;热：&lt;br&gt;热力学参数的由来（压力和温度，可以将无知者那头的内容抽出来重修再用）、理想气体物态方程（你说日后讨论讨论理想气体物态方程是协变的如何？）&lt;br&gt;热力学基本定律、热力学第二定律特殊在哪？&lt;br&gt;卡诺定理&lt;br&gt;统计观点基础和基本假设&lt;br&gt;光：&lt;br&gt;光是电磁波、光的偏振特性&lt;br&gt;几何光学近似&lt;br&gt;简单光学元件和能量特性&lt;br&gt;干涉&lt;br&gt;衍射&lt;br&gt;光与物质的相互作用（衰减和色散）&lt;br&gt;R：&lt;br&gt;SR时空的基本假设和基本推论、SR基本推论的理解（同时同地的相对性，必须要花笔墨了）&lt;br&gt;不知道有没有必要主线就说AB&lt;br&gt;A、切连科夫辐射（主要是好写也有助理解）&lt;br&gt;B、光的各种相对论效应（例如光行差效应、多普勒效应）&lt;br&gt;GR暂且将就一下，引入最短线的概念就算了。支线还有精彩的宇宙学不是么，可惜我现在好久没碰了，已经完全不熟悉了&lt;br&gt;QM：&lt;br&gt;波粒二象性&lt;br&gt;哥本哈根解释、态函数和算符（当然算符不要算，指明它是一种操作就行了吧）&lt;br&gt;测不准原理、观测公理&lt;br&gt;电子自旋和原子能态&lt;br&gt;不知道有没有引入相对论QM的必要，如果放支线写还是得强调一下上面是非相对论的理论&lt;/font&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="86R7xMVkecqIQZ7jBpjA-1" vertex="1">
+          <mxGeometry x="-1470" y="3410" width="570" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-246" value="未命名图层" parent="86R7xMVkecqIQZ7jBpjA-0" />
+        <mxCell id="rYfP52hOGVVlLULM5CNo-509" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;endArrow=classic;endFill=1;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-507" target="rYfP52hOGVVlLULM5CNo-504" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-423" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelBackgroundColor=none;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;size=0.017045454545454544;container=0;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-1480" y="1600" width="1760" height="990" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-398" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#0000FF;endArrow=classic;endFill=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-341" target="rYfP52hOGVVlLULM5CNo-354" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-248" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：行为主体；&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;：故事；&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：描述语言" style="whiteSpace=wrap;html=1;fontSize=20;align=left;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-230" y="-1870" width="700" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-249" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-201.25" y="-1855" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-250" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-41.25" y="-1855" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-251" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=20;position2=0.33;size=10;position=0.33;base=5;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="78.75" y="-1855" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-252" value="幻想乡" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-510" y="-1790" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-253" value="紫&amp;amp;轮椅" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="110" y="-1590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-254" value="城管大队" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-510" y="-1590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-255" value="蕾米" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-320" y="-1590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-256" value="天狗&amp;amp;河童" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-1230" y="-1590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-257" value="兔子" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-840" y="-1590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-258" value="师匠" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-20" y="-1590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-259" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-260" target="rYfP52hOGVVlLULM5CNo-271" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-260" value="月都" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="1365" y="-1790" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-261" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-264" target="rYfP52hOGVVlLULM5CNo-266" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="-1610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-262" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-264" target="rYfP52hOGVVlLULM5CNo-267" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-263" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-264" target="rYfP52hOGVVlLULM5CNo-268" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="-1610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-264" value="被遗忘者" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="670" y="-1690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-418" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000FF;endArrow=classic;endFill=1;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-265" target="rYfP52hOGVVlLULM5CNo-419" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="1780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1760" y="1180" />
+              <mxPoint x="430" y="1180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-265" value="绵月" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="1720" y="-1690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-295" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-266" target="rYfP52hOGVVlLULM5CNo-296" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="-1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-266" value="温和派" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="390" y="-1590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-300" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-267" target="rYfP52hOGVVlLULM5CNo-299" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-267" value="中立派" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="670" y="-1590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-302" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-268" target="rYfP52hOGVVlLULM5CNo-301" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-268" value="激进派" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="890" y="-1590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-269" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;labelBackgroundColor=none;fontSize=15;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-1460" y="-1360" width="3780" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-270" value="背景" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;labelBackgroundColor=none;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-1460" y="-1340" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-284" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-271" target="rYfP52hOGVVlLULM5CNo-283" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-271" value="&lt;div&gt;&lt;span&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;&lt;b&gt;开端&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;月都曾经历过大力发展核技术的阶段，核技术让月都的科技突飞猛进。正因核技术在月都科技史的地位极高，无数月都人高度歌颂美化发展核技术的历史，容不得其中有一丝贬义或污秽。月都高层借此进一步增强对不同阶级的历史洗脑，以便巩固阶级势力。核技术既改变月都的物质世界，其历史文化也成为了有力的思想枷锁。&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="1305" y="-1320" width="200" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-285" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-283" target="rYfP52hOGVVlLULM5CNo-264" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-287" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-283" target="rYfP52hOGVVlLULM5CNo-286" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-283" value="&lt;div&gt;&lt;span style=&quot;font-size: 21px&quot;&gt;&lt;b&gt;祸因&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;核技术的发展伴随着不光彩的污染和危险。它们荼毒了一批曾为月都埋头卖命的月都人，他们对核技术的发展有绝对意义上的主要贡献，可他们因此染上一系列有危险性的奇怪疾病(暂称为“X”)，部分人也因辐射生而畸形。&lt;br&gt;其他月都人为了其他月都人的安全，浑身战栗地将那些感染疾病和畸形的月都人关押在其他月都人完全不知道的地点，继续让他们从事工作。&lt;br&gt;早先一批人有着理想和信念，即便被遗弃也不放弃工作。可渐渐地，随着他们的努力换来的技术进步，月都人开始能更清洁地使用这种技术。他们成了无用的污秽怪物，日后只能与核废料同居。大部分人因污染而凄惨地暴死，但少数人活了下来。&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="1290" y="-980" width="230" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-290" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-286" target="rYfP52hOGVVlLULM5CNo-289" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-286" value="&lt;div&gt;&lt;span style=&quot;font-size: 21px&quot;&gt;&lt;b&gt;发展&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;那些幸存者终于借一系列事件看到了他们同胞的真面目。他们压根不被当做月都人，是比地面上的污秽还令人恶心的污秽本尊。&lt;br&gt;他们想要反抗。他们的努力没有白费，靠着堕落般地生存，他们开始发展起他们的势力，他们的子嗣蜷伏在黑暗中，准备点亮黑暗中的火焰&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="1290" y="-580" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-291" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-289" target="rYfP52hOGVVlLULM5CNo-265" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-292" value="从一开始就知情" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" parent="rYfP52hOGVVlLULM5CNo-291" vertex="1" connectable="0">
+          <mxGeometry x="0.9317" y="2" relative="1" as="geometry">
+            <mxPoint x="-44" y="42" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-293" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-289" target="rYfP52hOGVVlLULM5CNo-294" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="-220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-305" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-289" target="rYfP52hOGVVlLULM5CNo-303" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-289" value="&lt;div&gt;&lt;span style=&quot;font-size: 21px&quot;&gt;&lt;b&gt;矛盾开始&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;终于，属于幸存者的反击开始，但由于先天不足和武装力量匮乏而惨败给月都的正规军。月都惊异地发现那些从泥坑里爬出来的尸骸正扭曲着他们对过去历史的认识。&lt;br&gt;对此，高层选择武力压制，处死或关押所有知情者，进一步深化洗脑教育。同时成立秘密组织追杀那些幸存者。&lt;br&gt;直到现在，&lt;b&gt;知情者只有最顶级的月都高层，比如绵月姐妹、稀神探女和八意永琳，还有在相关组织中训练有素的武装力量&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="1290" y="-340" width="230" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-294" value="&lt;div&gt;&lt;span style=&quot;font-size: 21px&quot;&gt;&lt;b&gt;设定&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;那些幸存者后被称作被遗忘者(建议换一个语言再音译，如果有亚非那种气息就好了)，他们寿命短，绝大多数个体生而畸形。他们共有一种疾病，这种疾病具有较弱感染性，是一种慢性病。&lt;b&gt;这种疾病会增强他们对核污染的抗性，但是会缩短寿命，易使感染者陷入癫狂，并引起一定程度的身体畸变。一些特殊的魔法和特制药物可以暂时遏制这种疾病，但无法根治。由于这种疾病能增强对核污染的耐受性，故被遗忘者倾向于用以核废料为原料制成的武器攻击对手&lt;/b&gt;。而这种致死性极强的武器成了月都部队闻风丧胆的大杀器。导致&lt;b&gt;月都始终无法彻底铲除被遗忘者&lt;/b&gt;。最后这种疾病的根治方法被两位贤者找到。&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="670" y="-380" width="230" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-296" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;主张和平交流，但考虑到Gensokyo的立场，他们可能无法讨伐月都&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="357.5" y="30" width="145" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-299" value="&lt;div style=&quot;text-align: justify&quot;&gt;不作任何表态，由于大部分成员管理掌握着技术，后演化为类似军队的势力，不倾向任何任何一方，只为有优势的一方提供武器&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="637.5" y="30" width="145" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-310" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-301" target="rYfP52hOGVVlLULM5CNo-311" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-301" value="&lt;div style=&quot;text-align: justify&quot;&gt;主张侵略战争，先独吞幻想乡后再向月都复仇。&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;b&gt;处于领导地位&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="857.5" y="30" width="145" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-306" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-303" target="rYfP52hOGVVlLULM5CNo-307" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1020" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-309" value="在这里分为三股势力" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rYfP52hOGVVlLULM5CNo-306" vertex="1" connectable="0">
+          <mxGeometry x="0.4081" relative="1" as="geometry">
+            <mxPoint x="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-303" value="&lt;div&gt;&lt;span style=&quot;font-size: 21px&quot;&gt;&lt;b&gt;故事开始&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;被遗忘者在长时间的抗争中身无所寄，复仇的怨念和生存的渴望互相冲突。随着他们利用核废料制造的武器取得一定的成功，他们得到一个最佳的方案：去地面的幻想乡定居，养精蓄锐后再讨伐月都。&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="1290" y="20" width="230" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-307" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="1030" y="-5" width="20" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-319" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-311" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-415" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;endArrow=classic;endFill=1;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-311" target="rYfP52hOGVVlLULM5CNo-336" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-416" value="在夺走&amp;amp;削弱幻想乡能力后着手破坏大结界" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="rYfP52hOGVVlLULM5CNo-415" vertex="1" connectable="0">
+          <mxGeometry x="-0.8786" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-311" value="&lt;div style=&quot;text-align: justify&quot;&gt;利用武器夺取能力&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;这种武器只能在幻想乡起效一次&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;夺走幻想乡内所有人(除贤者等)的能力&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="835" y="1480" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-312" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;labelBackgroundColor=none;fontSize=15;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-1460" y="210" width="3780" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-454" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000FF;endArrow=classic;endFill=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-313" target="rYfP52hOGVVlLULM5CNo-332" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-313" value="紫&amp;amp;轮椅" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="130" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-404" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000FF;endArrow=classic;endFill=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-314" target="rYfP52hOGVVlLULM5CNo-330" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-314" value="城管大队" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-620" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-344" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-316" target="rYfP52hOGVVlLULM5CNo-345" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1040" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-316" value="天狗&amp;amp;河童" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-1080" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-327" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;startArrow=none;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-393" target="rYfP52hOGVVlLULM5CNo-328" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-780" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-317" value="兔子" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-820" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-381" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-318" target="rYfP52hOGVVlLULM5CNo-322" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="1285" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-318" value="师匠&amp;amp;公主" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-90" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-320" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelBackgroundColor=none;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;size=0.017045454545454544;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-1450" y="1420" width="1760" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-395" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-322" target="rYfP52hOGVVlLULM5CNo-393" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-322" value="芙兰被师匠偷偷带至月都&lt;br&gt;但是由于藏人过于困难，师匠只能带走一位" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="210" y="1260" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-476" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;fontColor=#000000;endArrow=classic;endFill=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-328" target="rYfP52hOGVVlLULM5CNo-475" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-328" value="铃仙与铃二组成兔子调查队" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-840" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-413" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;endArrow=classic;endFill=1;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;entryX=0.012;entryY=0.499;entryDx=0;entryDy=0;entryPerimeter=0;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-336" target="rYfP52hOGVVlLULM5CNo-423" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="2390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-494" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#0000FF;endArrow=classic;endFill=1;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-336" target="rYfP52hOGVVlLULM5CNo-483" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-336" value="聚集所有力量计划破坏大结界" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="869.9971428571426" y="2075" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-346" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-345" target="rYfP52hOGVVlLULM5CNo-350" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1040" y="1670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-345" value="河童和帕秋莉&lt;br&gt;推测出可能发生了什么事：&lt;br&gt;物理法则开始起主导作用" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-1130" y="1480" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-349" value="" style="group" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1" connectable="0">
+          <mxGeometry x="110" y="300" width="320" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-332" value="与被遗忘者进行求和谈判" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-349" vertex="1">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-340" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeWidth=3;direction=north;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-349" vertex="1">
+          <mxGeometry x="60" y="70" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-341" value="贤者组获得情报&lt;br&gt;开始联合开启抗击计划" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-349" vertex="1">
+          <mxGeometry x="110" y="120" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-338" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-296" target="rYfP52hOGVVlLULM5CNo-332" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-339" value="派出代表A&lt;br&gt;取走被遗忘者最珍贵的X抑制剂和防护服" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rYfP52hOGVVlLULM5CNo-338" vertex="1" connectable="0">
+          <mxGeometry x="0.7229" y="-2" relative="1" as="geometry">
+            <mxPoint x="144" y="-48" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-429" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#0000FF;endArrow=classic;endFill=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-350" target="rYfP52hOGVVlLULM5CNo-428" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-350" value="天狗开始主导幻想乡工业化" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-1150" y="1670" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-372" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-362" target="rYfP52hOGVVlLULM5CNo-370" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-374" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-362" target="rYfP52hOGVVlLULM5CNo-373" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-377" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-362" target="rYfP52hOGVVlLULM5CNo-375" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-378" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-362" target="rYfP52hOGVVlLULM5CNo-379" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="299.99999999999955" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-471" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;endArrow=classic;endFill=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-362" target="rYfP52hOGVVlLULM5CNo-470" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-362" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;和谈结果：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;1、贤者组接受与被遗忘者共存，但由于被遗忘者自身有毒，在找到解药前无法实现这一目的，因此这场和谈将只透露给幻想乡的几位贤者&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;2、被遗忘者将入侵幻想乡，并可能利用幻想乡居民的能力，因此贤者组将保护，或者隐藏幻想乡内的强大角色&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;3、作为交换，贤者组将不会把月都的过去透露给月都人民&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="39" y="560" width="522" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-368" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-332" target="rYfP52hOGVVlLULM5CNo-362" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-456" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000FF;endArrow=classic;endFill=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-370" target="rYfP52hOGVVlLULM5CNo-521" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="731" y="3160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-370" value="但是贤者并不能确信自己能找到解药，因此在迫不得已时会决定让被遗忘者彻底灭亡" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="637.5" y="575" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-373" value="&lt;span style=&quot;text-align: justify&quot;&gt;八咫鸟的核聚变能力，贤者组迅速地同一向低调行事的地灵殿之主商讨，通过一定的手段将八咫鸟的力量封存于由A提供的反应装置中，既保护了力量不被夺取也维持了幻想乡的能量供应。&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry y="740" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-396" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;endArrow=classic;endFill=1;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-375" target="rYfP52hOGVVlLULM5CNo-203" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="785" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-375" value="&lt;span style=&quot;text-align: justify&quot;&gt;贤者组非常强大, 力量将不会被剥夺, 而是被削弱&lt;br&gt;因此在此处不必考虑&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="370" y="740" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-380" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-379" target="rYfP52hOGVVlLULM5CNo-322" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-392" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#0000FF;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-379" target="rYfP52hOGVVlLULM5CNo-324" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-379" value="&lt;div style=&quot;text-align: justify&quot;&gt;芙兰朵露而言，事情非常棘手，因为贤者组找不到封存她能力的方法，也没法在全幻想乡能力被窃取后夺走她的能力 (因为太强大，会立马被激进派扣走)&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;唯一的出路便是寻找接待者，而唯一的选择就是让芙兰寄身于A的势力代表中、外界或月都。显然月都是最安全的选择(外界的话，芙兰把外界搞崩那自己也赔不起，当然如果以外界为接待区域的话，剧情得改，老佛爷那头圆不回来)，于是她们早早请安八意永琳，并和她约定：若一切事成，她们绝对不会将月都的过去泄露给月都人&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="75" y="870" width="450" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-388" value="批注" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#0000FF;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="270" y="-1855" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-389" value="绵月姐妹对此事如何反应 &lt;font color=&quot;#ff42e6&quot;&gt;绵月和永琳的意见完全一致，但她们和永琳一样没和两位贤者交代过他们打算对被遗忘者血口喷人。&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#0000FF;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="446.5" y="1000" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-390" value="&lt;font color=&quot;#ff42e6&quot;&gt;身在月都的芙兰，这里可以写一些小支线，比如芙兰可以偷听到一些内幕？或者借由芙兰视角来介绍月都科技和物理？可以，但是月都自然不和我们在一个层次，为了留存属于月都的黑科技神秘感，这段姑且主要用于谈论剧情和非月都科技的内容。&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#0000FF;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="357.5" y="1330" width="269" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-391" value="这个决定是否需要在中后期被温和派意外知晓？&lt;br&gt;是否需要贤者组和温和派的矛盾？&lt;b&gt;&lt;font color=&quot;#ff42e6&quot;&gt;不需要，蒙在鼓里就己方知情是最好决定。&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#0000FF;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="600" y="540" width="265" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-393" value="&lt;font color=&quot;#000000&quot;&gt;由于对月都的不好回忆拒绝与师匠一起回去&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-865" y="1320" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-394" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-317" target="rYfP52hOGVVlLULM5CNo-393" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-730" y="1190" as="targetPoint" />
+            <mxPoint x="-780" y="120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-397" value="铃二为什么来地上？&lt;br&gt;一个可能是，作为绵月姐妹的宠物，率先察觉到了异常，偷偷来到幻想乡询问情况，却由于能力消失异变被迫留在了幻想乡&lt;br&gt;&lt;font color=&quot;#ff42e6&quot;&gt;实际上就是顺着宣传和月都资源供给而来的，不过人家心思缜密，看出了绵月的破绽，刚好发现铃仙和自己算是同是天涯沦落人，自然要在地上合作调查。实际上铃二的调查受到绵月的阻挠，所以她办事和间谍风云差不多。&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#0000FF;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-750" y="1630" width="295" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-400" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#0000FF;endArrow=classic;endFill=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-399" target="rYfP52hOGVVlLULM5CNo-354" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-406" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#0000FF;endArrow=classic;endFill=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-315" target="rYfP52hOGVVlLULM5CNo-324" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-315" value="红魔馆" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-430" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-405" value="" style="group" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1" connectable="0">
+          <mxGeometry x="-639.9999999999998" y="1480" width="309.9999999999998" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-324" value="发觉芙兰的失踪而开始调查" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-405" vertex="1">
+          <mxGeometry x="189.99999999999977" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-330" value="自然而然地出动调查" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-405" vertex="1">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-399" value="绑定两个势力&lt;br&gt;组成调查大队" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeWidth=3;fillColor=#e1d5e7;direction=north;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-405" vertex="1">
+          <mxGeometry x="49.99999999999977" y="65" width="200" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-409" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#0000FF;endArrow=classic;endFill=1;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-407" target="rYfP52hOGVVlLULM5CNo-373" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-410" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000FF;endArrow=classic;endFill=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-407" target="rYfP52hOGVVlLULM5CNo-411" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-250" y="2193.9998372395835" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-407" value="旧地狱" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-290" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-412" value="地狱&amp;amp;纯狐" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-1320" y="45" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-417" value="&lt;font color=&quot;#0000ff&quot;&gt;1、河童需要月都的技术支持&lt;/font&gt;&lt;font color=&quot;#ff42e6&quot;&gt;（更多是天狗当中间商，不过河童自己也有一些私货，天狗刚好靠着这个机会把河童的私货给掠了过来）&lt;/font&gt;&lt;font color=&quot;#0000ff&quot;&gt;，贤者虽然和温和派有联络，但如何提供？还是说从万象展的老物品那里学习？&lt;/font&gt;&lt;font color=&quot;#ff42e6&quot;&gt;（月都派人派机器高效供给，温和派不为幻想乡提供技术，因为温和派手头也没多少东西，全被中立派和激进派扣押着，就A的东西也是温和派花了九牛二虎之力换来的）&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#0000ff&quot;&gt;2、天狗能从工业化中得到什么好处？这个需要动机 &lt;/font&gt;&lt;font color=&quot;#ff42e6&quot;&gt;无形的政权（估计会在文文的一篇支线，即公事私办的后续里详细讨论，那是一篇和光学相关的，主打几何光学的各种奇技淫巧。另外需要提的是，公事私办本就是月都快把馅全漏光了，随后全幻想乡月都阴谋论盛行。公事私办也正是大天狗为了转移幻想乡的注意至月都而做的举措，因为他们那时揽权严重，已经动摇到不少势力的饭碗了，风头很紧。但这个鬼畜的举动也将天狗和月都与河童的关系拉到冰点，直接孤立无援了。）&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#000000;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-1350" y="1685" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-422" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#0000FF;endArrow=classic;endFill=1;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-419" target="rYfP52hOGVVlLULM5CNo-350" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-424" value="月都会支持吗？&lt;br&gt;&lt;font color=&quot;#ff42e6&quot;&gt;就是月都故意扶持的，&lt;br&gt;以表现她们对“抗遗”&lt;br&gt;的忠诚心和可信赖程度&lt;br&gt;之高。这些行径肯定&lt;br&gt;被两位贤者看在眼里&lt;br&gt;，但她们都不敢作声，&lt;br&gt;因为月都的好处和宣传&lt;br&gt;做得太到位，自己揭发&lt;br&gt;月都反而容易被当成叛徒。&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" parent="rYfP52hOGVVlLULM5CNo-422" vertex="1" connectable="0">
+          <mxGeometry x="0.8621" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-432" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000FF;endArrow=classic;endFill=1;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-419" target="rYfP52hOGVVlLULM5CNo-434" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430.0476190476188" y="1760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-419" value="&lt;font color=&quot;#000000&quot;&gt;月都对于幻想乡的能力消失&amp;amp;大结界正在遭受削弱需要找到借口与理由，并对幻想乡说明&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="320" y="1670" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-421" value="&lt;font color=&quot;#0000ff&quot;&gt;月都此时并不能说明被遗忘者的存在，家丑不可外扬&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#000000;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="525" y="1655" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-425" value="贤者自然也是不能说明，否则将月都也将作为敌人" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#0000FF;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="540" y="1700" width="155" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-431" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#0000FF;endArrow=classic;endFill=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-428" target="rYfP52hOGVVlLULM5CNo-430" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-449" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#0000FF;endArrow=classic;endFill=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-428" target="rYfP52hOGVVlLULM5CNo-448" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-512" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#0000FF;endArrow=classic;endFill=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-428" target="rYfP52hOGVVlLULM5CNo-511" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-428" value="科学技术逐渐发展&lt;br&gt;神明力量逐渐被削弱" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-1150" y="1950" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-434" value="幻想乡知道外部敌人存在，但不知道这些是变异的月都人的真相" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="320" y="1770" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-450" value="月都借刀杀人" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#0000FF;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="530" y="1800" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-453" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#0000FF;endArrow=classic;endFill=1;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-354" target="rYfP52hOGVVlLULM5CNo-411" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-515" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#0000FF;endArrow=classic;endFill=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-354" target="rYfP52hOGVVlLULM5CNo-516" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-490" y="2990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-354" value="贤者组在掩护温和派的过程中被城管组当作内鬼而开战" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-610" y="2190" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-430" value="随着幻想乡内力量的重新分配&lt;br&gt;与真相探索的不同说法&lt;br&gt;内战与冲突爆发不可避" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-1290" y="2060" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-451" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#0000FF;endArrow=classic;endFill=1;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-448" target="rYfP52hOGVVlLULM5CNo-354" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-448" value="幻想乡居民利用科技来到大结界外主动迎击激进派，小规模战争不断" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-1010" y="2060" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-457" value="故事开始" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;labelBackgroundColor=none;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-1460" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-458" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fontColor=#ffffff;strokeWidth=3;fillColor=#6a00ff;direction=south;size=0.1875;strokeColor=#3700CC;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-580" y="1250" width="190" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-459" value="这是故事的主要视角" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#0000FF;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-548.75" y="1220" width="127.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-460" value="城管大队" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-620" y="1070" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-461" value="天狗&amp;amp;河童" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-1080" y="1070" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-462" value="兔子" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-820" y="1070" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-463" value="红魔馆" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-430" y="1070" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-464" value="旧地狱" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-290" y="1070" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-519" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;endArrow=classic;endFill=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-465" target="rYfP52hOGVVlLULM5CNo-518" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-465" value="地狱&amp;amp;纯狐" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-1350" y="1080" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-468" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;labelBackgroundColor=none;fontSize=15;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-1460" y="1390" width="3780" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-469" value="写作的开始" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;labelBackgroundColor=none;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-1460" y="1420" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-472" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;fontColor=#000000;endArrow=classic;endFill=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-470" target="rYfP52hOGVVlLULM5CNo-460" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-473" value="妖梦被幽幽子不断阻挠" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#000000;" parent="rYfP52hOGVVlLULM5CNo-472" vertex="1" connectable="0">
+          <mxGeometry x="-0.1261" y="3" relative="1" as="geometry">
+            <mxPoint x="32" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-470" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 15px&quot;&gt;所有贤者都一定程度上地知道了内情&lt;/font&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#ff42e6&quot;&gt;（除了跟着城管大队干活调查的，例如华扇）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-1460" y="710" width="1400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-490" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#0000FF;endArrow=classic;endFill=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-475" target="rYfP52hOGVVlLULM5CNo-488" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-505" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;endArrow=classic;endFill=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-475" target="rYfP52hOGVVlLULM5CNo-504" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-475" value="&lt;font style=&quot;font-size: 12px&quot;&gt;兔子由于有月都的知识所以先城管一步接近真相&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-870" y="2300" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-480" value="温和派" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="390" y="-510" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-481" value="中立派" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="670" y="-510" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-482" value="激进派" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="890" y="-510" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-489" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;fontColor=#0000FF;endArrow=classic;endFill=1;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-483" target="rYfP52hOGVVlLULM5CNo-488" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-483" value="激进派" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="890" y="2210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-484" value="中立派" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="670" y="2210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-491" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#0000FF;endArrow=classic;endFill=1;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-485" target="rYfP52hOGVVlLULM5CNo-411" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-485" value="温和派" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="390" y="2210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-486" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 12px&quot;&gt;但是这是贤者&amp;amp;温和派不愿看到的&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=15;fontColor=#000000;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-1010" y="2270" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-492" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#0000FF;endArrow=classic;endFill=1;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-488" target="rYfP52hOGVVlLULM5CNo-411" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-495" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#0000FF;endArrow=classic;endFill=1;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-488" target="rYfP52hOGVVlLULM5CNo-496" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="2840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-488" value="&lt;font style=&quot;font-size: 12px&quot;&gt;激进派得知真相可能被泄露而怀疑温和派作为内鬼的可能性&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="840" y="2380" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-500" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;endArrow=classic;endFill=1;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-496" target="rYfP52hOGVVlLULM5CNo-497" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-496" value="&lt;font color=&quot;#000000&quot;&gt;大结界被破坏、&lt;br&gt;全面战争开始&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="870" y="2725" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-497" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelBackgroundColor=none;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;size=0.017045454545454544;container=0;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-1450" y="2620" width="1760" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-411" value="&lt;font color=&quot;#000000&quot;&gt;在小五的沟通下，旧地狱的鬼为了不让激进派怀疑温和派与幻想乡相通，开始扮演着悲观主义&amp;amp;投降派的角色&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-360" y="2520" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-493" value="如何向一般通过鬼族说明被遗忘者内部的纠纷？&lt;font color=&quot;#ff42e6&quot;&gt;其实不止是鬼族，连动物灵什么的也同意了，靠的还是贤者和几个当权者的建议。这番举动在幻想乡内无疑是负面的，但这可以让激进派脑子发热，转移视线。&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;fontColor=#0000FF;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-150" y="2480" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-523" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#0000FF;endArrow=classic;endFill=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-501" target="rYfP52hOGVVlLULM5CNo-524" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-650" y="2990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-501" value="幻想乡依靠自身的主场作战优势&amp;amp;长时间的科技发展取得了胜利" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-1430" y="2725" width="1560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-513" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#0000FF;endArrow=classic;endFill=1;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-504" target="rYfP52hOGVVlLULM5CNo-511" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-504" value="&lt;font style=&quot;font-size: 12px&quot;&gt;月都以不再技术提供为筹码&lt;br&gt;将兔子封住口，并要求不再进一步探索&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-885" y="2400" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-507" value="绵月" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="1080" y="2210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-510" value="&lt;font color=&quot;#0000ff&quot;&gt;此时幻想乡快速现代化而过度依赖技术，比如明明有机器耕作为啥还要人力，没了技术反而活不下去&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;fontColor=#000000;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-690" y="2374" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-514" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#0000FF;endArrow=classic;endFill=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-511" target="rYfP52hOGVVlLULM5CNo-501" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-511" value="天狗&amp;amp;河童开始自主研发技术" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-1150" y="2490" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-516" value="&lt;font color=&quot;#000000&quot;&gt;城管大队得知了真相&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-550" y="3110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-520" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;endArrow=classic;endFill=1;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-518" target="rYfP52hOGVVlLULM5CNo-475" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-518" value="幻想乡不断发展的科技促使地狱&amp;amp;纯狐掺入一脚进行谈判" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-1400" y="2190" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-521" value="贤者组得到了解药的配方&lt;br&gt;配方需要月都人的血+被遗忘者的血" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="637.5" y="3330" width="189" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-522" value="&lt;font color=&quot;#0000ff&quot;&gt;&lt;b&gt;如何得到的？这需要细说！&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;fontColor=#000000;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="755" y="3280" width="155" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-525" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;endArrow=classic;endFill=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" source="rYfP52hOGVVlLULM5CNo-524" target="rYfP52hOGVVlLULM5CNo-516" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-524" value="&lt;font color=&quot;#000000&quot;&gt;幻想乡在战争中得到了能力回收装置的奥秘并恢复了一些角色的部分能力（而且非常短暂且有CD）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-760" y="2960" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-526" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;labelBackgroundColor=none;fontSize=15;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-1460" y="4210" width="3780" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-527" value="故事的结束" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;labelBackgroundColor=none;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-1460" y="4230" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-528" value="由于能力回收装置的存在，大家得到了自己原有甚至更强的能力，科技再次变得无关紧要，幻想乡恢复了秩序" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="-1430" y="4300" width="1560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-529" value="激进派被全体处死，换来了大批量的解药，温和派&amp;amp;中立派在保守秘密的前提下与幻想乡居民和谐共处" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="210" y="4300" width="860" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYfP52hOGVVlLULM5CNo-530" value="月都继续保守着秘密，核废料被完全清除" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" parent="rYfP52hOGVVlLULM5CNo-246" vertex="1">
+          <mxGeometry x="1220" y="4300" width="510" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
+    <mxGraphModel dx="2721" dy="2688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="2000" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-75" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;elbow=vertical;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-2" target="Tm3XjgrO7Ti5pN1czXkk-84" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-2" target="Tm3XjgrO7Ti5pN1czXkk-80" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20" y="356" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-116" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-2" target="Tm3XjgrO7Ti5pN1czXkk-117" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-2" value="Gensokyo" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="316" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-95" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-6" target="Tm3XjgrO7Ti5pN1czXkk-98" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-6" value="地狱" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="316" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-105" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-7" target="Tm3XjgrO7Ti5pN1czXkk-107" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-7" value="天界和冥界" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="316" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-10" value="&lt;font style=&quot;font-size: 20px&quot;&gt;物理——主线支线事件一览&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="-320" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-11" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：行为主体；&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;：故事；&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：描述语言" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=left;" parent="1" vertex="1">
+          <mxGeometry x="280" y="-220" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-12" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="290" y="-205" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-13" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="450" y="-205" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-15" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=20;position2=0.33;size=10;position=0.33;base=5;" parent="1" vertex="1">
+          <mxGeometry x="570" y="-205" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-16" target="Tm3XjgrO7Ti5pN1czXkk-41" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="358" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-113" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-16" target="Tm3XjgrO7Ti5pN1czXkk-114" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="691" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-16" value="&lt;font style=&quot;font-size: 12px&quot;&gt;受害方（被遗弃者）&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="740" y="320" width="80" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-17" target="Tm3XjgrO7Ti5pN1czXkk-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1010" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1010" y="280" />
+              <mxPoint x="1010" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-108" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-17" target="Tm3XjgrO7Ti5pN1czXkk-109" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1010" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-17" value="月都" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="970" y="316" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-31" value="科学技术发展，存在核技术的历史遗留问题" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
+          <mxGeometry x="940" y="220" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-33" target="Tm3XjgrO7Ti5pN1czXkk-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-33" value="核技术在月都科技发展中起到关键性作用，但是背地损害了相当一部分人的正常权益，破坏了许多人的美好生活。" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
+          <mxGeometry x="800" y="185" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-38" target="Tm3XjgrO7Ti5pN1czXkk-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-36" value="畏惧“污秽”，驱逐受害者和知情者。" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
+          <mxGeometry x="690" y="220" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-38" value="受害" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="730" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-36" target="Tm3XjgrO7Ti5pN1czXkk-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="260" as="sourcePoint" />
+            <mxPoint x="780" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-41" target="Tm3XjgrO7Ti5pN1czXkk-43" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-41" value="失去家园，面临生命危险。" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
+          <mxGeometry x="600" y="220" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-43" target="Tm3XjgrO7Ti5pN1czXkk-45" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-43" value="在第二次月面战争中寻找到合适的家园。" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
+          <mxGeometry x="410" y="215" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-45" target="Tm3XjgrO7Ti5pN1czXkk-48" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-45" value="受辐射影响，生而畸形，失去正常的形体样貌，名声扫地。惧怕其他势力因此而讨伐消灭它们，" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
+          <mxGeometry x="250" y="197.5" width="110" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-46" value="知情人：八意永琳/蓬莱山辉夜" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="266" width="74" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-48" target="Tm3XjgrO7Ti5pN1czXkk-50" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-48" value="知情人从月都偷来关键技术，包括“幻想”的力量的回收装置，和能在一定程度上改变部分区域的物理法则的装置。" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
+          <mxGeometry x="120" y="130" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-50" target="Tm3XjgrO7Ti5pN1czXkk-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-50" target="Tm3XjgrO7Ti5pN1czXkk-54" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="48.75" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-50" value="进攻/侵略" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;align=left;" parent="1" vertex="1">
+          <mxGeometry x="30" y="176.25" width="37.5" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-54" target="Tm3XjgrO7Ti5pN1czXkk-63" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-54" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="38.75" y="47.5" width="20" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-63" value="代表势力" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-55" y="72.5" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-64" target="Tm3XjgrO7Ti5pN1czXkk-69" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="48" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-125" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-64" target="Tm3XjgrO7Ti5pN1czXkk-127" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="83.75" y="-20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-64" value="激进派" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="58.75" y="23" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-65" target="Tm3XjgrO7Ti5pN1czXkk-73" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-70" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-65" value="温和派" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="58.75" y="100" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-66" target="Tm3XjgrO7Ti5pN1czXkk-71" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="-40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-66" value="中立派" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="100" y="62.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-69" value="恣睢的侵略派，主张以武力获得绝对地位。对月都有强烈的复仇情绪。" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;size=4;position=0.67;" parent="1" vertex="1">
+          <mxGeometry x="240" y="22" width="150" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-71" value="掌控夺来的科技力量，立场中立，只支持对己方有利的一派。" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;size=10;position=0.53;align=left;" parent="1" vertex="1">
+          <mxGeometry x="405" y="52.5" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-73" value="主张和平谈判，不损失任何人的利益。想法美好但实际却屡屡碰壁。最后以处死所有激进派为交换条件换来和平。" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;size=10;position=0.5;align=left;" parent="1" vertex="1">
+          <mxGeometry x="565" y="85" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-76" value="代表人物组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-190" y="415" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-78" value="记录者和涉事者" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-41.25" y="333" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-80" target="Tm3XjgrO7Ti5pN1czXkk-82" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-140" y="356" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-80" value="蕾米莉亚·斯卡雷特" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-110" y="325" width="62" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-82" value="作用：重要消息流通渠道。主线的撰写者" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;size=20;position=0.49;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-230" y="310" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-86" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-84" target="Tm3XjgrO7Ti5pN1czXkk-87" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-130" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-88" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-84" target="Tm3XjgrO7Ti5pN1czXkk-89" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-100" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-93" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-84" target="Tm3XjgrO7Ti5pN1czXkk-94" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-150" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-84" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-220" y="470" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-90" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startArrow=none;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-91" target="Tm3XjgrO7Ti5pN1czXkk-89" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-121" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-87" target="Tm3XjgrO7Ti5pN1czXkk-122" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-351" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-87" value="八云紫+摩多罗（自成一派）" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-191.27" y="427" width="91.27" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-89" value="城管大队（红妖永风地星神）" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="500" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-91" value="城管大队怀疑对方，保持近敌对关系" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-60" y="458.5" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-92" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;endArrow=none;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-87" target="Tm3XjgrO7Ti5pN1czXkk-91" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-145.63499999999976" y="510" as="sourcePoint" />
+            <mxPoint x="-100" y="545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-94" value="被蒙在鼓里的二人组：铃仙+铃二" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-96" value="代表人物组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="152" y="516.5" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-99" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=12;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="335.5" y="479" as="targetPoint" />
+            <mxPoint x="280" y="479" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="310" y="479" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-103" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-98" target="Tm3XjgrO7Ti5pN1czXkk-104" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="528.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-98" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="232" y="480" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-102" value="看戏爱热闹组合：赫/纯/皮/四季" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="332" y="440" width="73" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-118" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-104" target="Tm3XjgrO7Ti5pN1czXkk-120" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-104" value="保护切身利益的地狱联盟：被迫结盟的死对头们（鬼—）" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="360" y="520" width="110" height="112.69" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-147" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-106" target="Tm3XjgrO7Ti5pN1czXkk-148" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-106" value="浪荡的天人和她的搭档" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="510" y="415" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-154" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-107" target="Tm3XjgrO7Ti5pN1czXkk-155" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="472.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-107" value="顺从紫意见的西行寺之主" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="600" y="435" width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-137" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-109" target="Tm3XjgrO7Ti5pN1czXkk-138" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1010" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-109" value="绵月姐妹/始终沉默的永远亭" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="970" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-110" value="代表人物组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="550" y="390" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-111" value="代表人物组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="930" y="395" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-115" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-114" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="720" />
+              <mxPoint x="470" y="670" />
+              <mxPoint x="400" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-133" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=12;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="Tm3XjgrO7Ti5pN1czXkk-134" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="657" as="sourcePoint" />
+            <mxPoint x="270" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="516" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-114" value="中立派提供的能力回收装置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="720" y="661" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-130" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-117" target="Tm3XjgrO7Ti5pN1czXkk-129" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-117" value="除贤者组完全失去能力" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry y="640" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-120" value="在八云紫的敦促下，在关键时候向激进派妥协，以减轻激进派对温和派搞私通的嫌疑。但他们因此与Gensokyo敌对。" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;align=left;size=20;position=0.5;" parent="1" vertex="1">
+          <mxGeometry x="572.5" y="536.5" width="135" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-123" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-122" target="Tm3XjgrO7Ti5pN1czXkk-124" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-355.5" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-122" value="求和谈判队，在事件发生前便知道内情。但她们也清楚幻想乡将无法与被遗弃者和平共处。因为被遗弃者的相貌和身上潜在的危害是全幻想乡的眼中钉。即便幻想乡的人们知晓事实，也不可能接受她们的建议。" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;size=10;position=0.51;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-411" y="450" width="111" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-152" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-124" target="Tm3XjgrO7Ti5pN1czXkk-153" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-355.5" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-124" value="在顾全大局的情况下，打对外沟通温和派发动对方内乱，对内援助部分城管，使其获得原有能力" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-415.5" y="690" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-127" value="前期处于被遗弃者中的绝对领导地位；后期衰落，最后被处死" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;size=20;position=0.55;align=left;" parent="1" vertex="1">
+          <mxGeometry x="23.75" y="-80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-128" value="激进派" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="370" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-131" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-129" target="Tm3XjgrO7Ti5pN1czXkk-132" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-129" value="温和派" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="10" y="740" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-156" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-132" target="Tm3XjgrO7Ti5pN1czXkk-157" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-132" value="为部分城管提供现代化武器和使用能力的装置盒" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
+          <mxGeometry y="870" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-135" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-134" target="Tm3XjgrO7Ti5pN1czXkk-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-136" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-134" target="Tm3XjgrO7Ti5pN1czXkk-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-134" value="能力减弱" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="443" y="495" width="67" height="33.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-140" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-138" target="Tm3XjgrO7Ti5pN1czXkk-141" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1010" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-138" value="美化，粉饰自己的作为和处境" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
+          <mxGeometry x="950" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-146" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-141" target="Tm3XjgrO7Ti5pN1czXkk-148" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="651.3450000000003" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="880" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-150" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-141" target="Tm3XjgrO7Ti5pN1czXkk-89" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="640" />
+              <mxPoint x="690" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-141" value="威逼利诱，谗言消灭被遗弃者" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
+          <mxGeometry x="955" y="632.69" width="110" height="37.31" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-148" value="天子的规劝，二人的冒险和现代化幻想乡参观。" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
+          <mxGeometry x="490" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-153" target="abYqFGVnjpJUzEvF_15N-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-355.5" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-153" target="abYqFGVnjpJUzEvF_15N-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-510" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-153" value="带走一个能力很bug的角色（未定），保全战力交换资本" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-415.5" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-155" value="暗地阻挠妖梦探索真相" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
+          <mxGeometry x="700" y="453.75" width="75" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-158" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-157" target="Tm3XjgrO7Ti5pN1czXkk-159" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-157" value="&lt;font style=&quot;font-size: 20px&quot;&gt;主线开始&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="970" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-160" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=19;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-159" target="Tm3XjgrO7Ti5pN1czXkk-161" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-80" y="1045" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-162" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-159" target="Tm3XjgrO7Ti5pN1czXkk-163" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="1045" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-164" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-159" target="Tm3XjgrO7Ti5pN1czXkk-165" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-168" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-159" target="Tm3XjgrO7Ti5pN1czXkk-169" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-110" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-170" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-159" target="Tm3XjgrO7Ti5pN1czXkk-171" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-159" value="&lt;font size=&quot;1&quot;&gt;能力消失之秋&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="1030" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-161" value="&lt;font size=&quot;1&quot;&gt;bug角色失踪&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
+          <mxGeometry x="-270" y="1020" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-163" target="abYqFGVnjpJUzEvF_15N-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-13" value="是否冲突？" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="abYqFGVnjpJUzEvF_15N-8">
+          <mxGeometry x="-0.5668" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-163" value="&lt;font style=&quot;font-size: 12px&quot;&gt;博丽神社聚众，八云紫的安抚（咲夜转告给蕾米莉亚）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-166" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-165" target="Tm3XjgrO7Ti5pN1czXkk-167" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-165" value="预知命运的能力盒" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry y="1110" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-175" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-167" target="Tm3XjgrO7Ti5pN1czXkk-176" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-177" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-167" target="Tm3XjgrO7Ti5pN1czXkk-178" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-167" target="abYqFGVnjpJUzEvF_15N-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50.000000000000455" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-167" value="蕾米莉亚的出行" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="10" y="1150" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-172" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-169" target="Tm3XjgrO7Ti5pN1czXkk-173" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-110" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-169" value="铃二登场，铃仙的假期" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="1090" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-174" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-171" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="215" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-171" value="第一次物理法则失效（自选，经典力学方面）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="160" y="1090" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-173" value="地上月兔探索队成立" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-150" y="1160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-180" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=12;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-176" edge="1" target="sZMM4IwdkpmcNfTbgfOu-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="1350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-176" value="城管调查大队和蕾米莉亚游记的开篇" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
+          <mxGeometry x="150" y="1220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-179" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=12;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Tm3XjgrO7Ti5pN1czXkk-178" target="Tm3XjgrO7Ti5pN1czXkk-171" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-178" value="解决" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="110" y="1155" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3XjgrO7Ti5pN1czXkk-181" value="调查路线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="210" y="1290" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sZMM4IwdkpmcNfTbgfOu-1" value="城管大队与贤者组的竹林对战（保护温和派），导致贤者组被当成内鬼" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="150" y="1810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sZMM4IwdkpmcNfTbgfOu-2" value="由天狗主导的幻想乡现代工业化议案" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="150" y="1690" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sZMM4IwdkpmcNfTbgfOu-3" value="帕秋莉、河城荷取等人推断出物理法则崩溃规律和可能原因" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="150" y="1550" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sZMM4IwdkpmcNfTbgfOu-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sZMM4IwdkpmcNfTbgfOu-4" target="sZMM4IwdkpmcNfTbgfOu-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sZMM4IwdkpmcNfTbgfOu-4" value="铃仙和小老帝被不明势力（其实还是永琳，怕肥兔子惹是生非）囚禁" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="150" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sZMM4IwdkpmcNfTbgfOu-5" value="——诸多要改要继续，明天继续" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="150" y="3290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sZMM4IwdkpmcNfTbgfOu-6" value="月都的谎言" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="150" y="1950" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sZMM4IwdkpmcNfTbgfOu-7" value="科学技术的传播与发展" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="150" y="2075" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="sZMM4IwdkpmcNfTbgfOu-9" value="八意永琳和蓬莱山辉夜消失（为后面月都代表登场配合月之都演戏）" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="313" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sZMM4IwdkpmcNfTbgfOu-10" value="对日渐强大的幻想乡工业体系，地狱势力开启谈判，促使利益向自身倾斜" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="150" y="2190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sZMM4IwdkpmcNfTbgfOu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="sZMM4IwdkpmcNfTbgfOu-11" target="sZMM4IwdkpmcNfTbgfOu-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sZMM4IwdkpmcNfTbgfOu-11" value="天人组和赫卡提亚搞事坏场，天人组正式加入城管调查大队" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="355" y="2190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sZMM4IwdkpmcNfTbgfOu-14" value="被遗忘者正式登场（月都撒谎时就已经提及他们），进入全面对抗状态" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="150" y="2330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sZMM4IwdkpmcNfTbgfOu-15" value="地上月兔组合调查到【未定角色，即被贤者组带走的角色】的消失，于是抢先城管大队进行调查。&lt;br&gt;由于是月兔，意外得到与温和派的谈判，但凑巧被城管大队当做内鬼，只能逃遍幻想乡。" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="150" y="2500" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="sZMM4IwdkpmcNfTbgfOu-16" value="由月之都、天狗和城管大队共同决定与被遗忘者完全敌对，进行战争" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="150" y="2730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sZMM4IwdkpmcNfTbgfOu-17" value="在第一次全面战争中，幻想乡势力取胜。" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="150" y="2880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sZMM4IwdkpmcNfTbgfOu-18" value="乘胜追击的速攻战，第二次全面战争，但被干扰物理法则的装置击退，惨败" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="150" y="3000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sZMM4IwdkpmcNfTbgfOu-19" value="月兔找到消失的【待定角色】，温和派的行为被暴露。八云紫敦促地狱向被遗忘者无条件停止出战，分散注意力。" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="150" y="3140" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="Br6sdRmaqmf8r6Yi6LAj-1" target="abYqFGVnjpJUzEvF_15N-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="3447.1428571428573" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-45" value="这个剧情的时间节点在哪？" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="abYqFGVnjpJUzEvF_15N-15">
+          <mxGeometry x="0.9034" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=21;fillColor=#f8cecc;strokeColor=#b85450;startArrow=none;" edge="1" parent="1" source="abYqFGVnjpJUzEvF_15N-46" target="sZMM4IwdkpmcNfTbgfOu-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="Br6sdRmaqmf8r6Yi6LAj-1" target="abYqFGVnjpJUzEvF_15N-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Br6sdRmaqmf8r6Yi6LAj-1" value="温和派&lt;br&gt;主张和平交流，但考虑到Gensokyo的立场，他们可能无法讨伐月都" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="570" y="1360" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Br6sdRmaqmf8r6Yi6LAj-3" value="需要在前面提到：贤者组与温和派的联络&lt;br&gt;交代多少？是否需要交代不完全，比如过程中收到激进派或其他势力阻挠？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="275" y="1820" width="275" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Br6sdRmaqmf8r6Yi6LAj-5" value="给整忘了， 谎言如何揭露&lt;br&gt;N神你提提啊" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="1940" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Br6sdRmaqmf8r6Yi6LAj-6" value="md, 少了个人怎么现在才发现&lt;br&gt;或者， 如果前面提到了人的失踪， 如何合理化，或者说， 如何让失踪变得自然，仿佛月都没有暗中作恶" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-325" y="2540" width="415" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Br6sdRmaqmf8r6Yi6LAj-7" value="这个我懂， 但是地狱势力的出场一定要放在这里吗，或者说被遗忘者需要和地狱势力建立联系吗，需要为他们的出场做铺垫吗" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-240" y="2280" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Br6sdRmaqmf8r6Yi6LAj-8" value="在这前面都是线性叙事， 我觉得没啥问题&lt;br&gt;但是是否有点太平淡了&lt;br&gt;或者说可以是城管间的平行叙事？&lt;br&gt;需要大家碰头开会总结线索大概？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-270" y="1790" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Br6sdRmaqmf8r6Yi6LAj-9" value="战争场面如何描写， 死人咋办&lt;br&gt;-&amp;gt;已解决" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="2870" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Br6sdRmaqmf8r6Yi6LAj-12" value="到这里大概各个势力的关系要重新再写一遍了罢， 如果我们把细节全部都整理好的话， 应该关系会细化很多" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="335" y="3270" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-3" value="寻找芙兰" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-9.999999999999545" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="abYqFGVnjpJUzEvF_15N-5" target="abYqFGVnjpJUzEvF_15N-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="abYqFGVnjpJUzEvF_15N-5" target="Tm3XjgrO7Ti5pN1czXkk-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="abYqFGVnjpJUzEvF_15N-5" target="Br6sdRmaqmf8r6Yi6LAj-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-12" value="贤者组联络" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="abYqFGVnjpJUzEvF_15N-11">
+          <mxGeometry x="-0.0895" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-41" value="&lt;font style=&quot;font-size: 12px&quot;&gt;芙兰关在隙间&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=21;" vertex="1" connectable="0" parent="abYqFGVnjpJUzEvF_15N-11">
+          <mxGeometry x="-0.9464" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-5" value="带走芙兰" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-415.5" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-16" value="与贤者找到了解药" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="590" y="2530.0028571428566" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="abYqFGVnjpJUzEvF_15N-18" target="abYqFGVnjpJUzEvF_15N-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-18" value="修改：为了不让激进派得到战力" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="915" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="abYqFGVnjpJUzEvF_15N-20" target="abYqFGVnjpJUzEvF_15N-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-20" value="配方：一些素材+月都人的血+被遗忘者的血" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="2545" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=21;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="abYqFGVnjpJUzEvF_15N-23" target="Tm3XjgrO7Ti5pN1czXkk-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="1050" />
+              <mxPoint x="900" y="358" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=21;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="abYqFGVnjpJUzEvF_15N-23" target="abYqFGVnjpJUzEvF_15N-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-23" value="&lt;div&gt;&lt;span&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;&lt;b&gt;开端&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;月都曾经历过大力发展核技术的阶段，核技术让月都的科技突飞猛进。正因核技术在月都科技史的地位极高，无数月都人高度歌颂美化发展核技术的历史，容不得其中有一丝贬义或污秽。月都高层借此进一步增强对不同阶级的历史洗脑，以便巩固阶级势力。核技术既改变月都的物质世界，其历史文化也成为了有力的思想枷锁。&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="785" y="920" width="200" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=21;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="abYqFGVnjpJUzEvF_15N-25" target="Br6sdRmaqmf8r6Yi6LAj-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=21;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="abYqFGVnjpJUzEvF_15N-25" target="abYqFGVnjpJUzEvF_15N-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;fontSize=21;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="abYqFGVnjpJUzEvF_15N-25" target="abYqFGVnjpJUzEvF_15N-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="1487.3333333333335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="abYqFGVnjpJUzEvF_15N-25" target="abYqFGVnjpJUzEvF_15N-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="1322.947368421053" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-25" value="&lt;div&gt;&lt;span style=&quot;font-size: 21px&quot;&gt;&lt;b&gt;祸因&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;核技术的发展伴随着不光彩的污染和危险。它们荼毒了一批曾为月都埋头卖命的月都人，他们对核技术的发展有绝对意义上的主要贡献，可他们因此染上一系列有危险性的奇怪疾病(暂称为“X”)，部分人也因辐射生而畸形。&lt;br&gt;其他月都人为了其他月都人的安全，浑身战栗地将那些感染疾病和畸形的月都人关押在其他月都人完全不知道的地点，继续让他们从事工作。&lt;br&gt;早先一批人有着理想和信念，即便被遗弃也不放弃工作。可渐渐地，随着他们的努力换来的技术进步，月都人开始能更清洁地使用这种技术。他们成了无用的污秽怪物，日后只能与核废料同居。大部分人因污染而凄惨地暴死，但少数人活了下来。&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1240" width="230" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=21;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="abYqFGVnjpJUzEvF_15N-30" target="abYqFGVnjpJUzEvF_15N-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-30" value="&lt;div&gt;&lt;span style=&quot;font-size: 21px&quot;&gt;&lt;b&gt;发展&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;那些幸存者终于借一系列事件看到了他们同胞的真面目。他们压根不被当做月都人，是比地面上的污秽还令人恶心的污秽本尊。&lt;br&gt;他们想要反抗。他们的努力没有白费，靠着堕落般地生存，他们开始发展起他们的势力，他们的子嗣蜷伏在黑暗中，准备点亮黑暗中的火焰&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1610" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-32" value="&lt;div&gt;&lt;span style=&quot;font-size: 21px&quot;&gt;&lt;b&gt;矛盾开始&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;终于，属于幸存者的反击开始，但由于先天不足和武装力量匮乏而惨败给月都的正规军。月都惊异地发现那些从泥坑里爬出来的尸骸正扭曲着他们对过去历史的认识。&lt;br&gt;对此，高层选择武力压制，处死或关押所有知情者，进一步深化洗脑教育。同时成立秘密组织追杀那些幸存者。&lt;br&gt;直到现在，知情者只有最顶级的月都高层，比如绵月姐妹、稀神探女和八意永琳，还有在相关组织中训练有素的武装力量&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1830" width="230" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=21;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="abYqFGVnjpJUzEvF_15N-35" target="sZMM4IwdkpmcNfTbgfOu-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-44" value="大结界被破坏" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="abYqFGVnjpJUzEvF_15N-37">
+          <mxGeometry x="0.844" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=21;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="abYqFGVnjpJUzEvF_15N-35" target="sZMM4IwdkpmcNfTbgfOu-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-51" value="利用破坏结界的武器" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="abYqFGVnjpJUzEvF_15N-38">
+          <mxGeometry x="-0.9287" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-57" value="核废料武器登场？" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="abYqFGVnjpJUzEvF_15N-38">
+          <mxGeometry x="0.9023" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="abYqFGVnjpJUzEvF_15N-35" target="Tm3XjgrO7Ti5pN1czXkk-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-53" value="利用武器夺取能力&lt;br&gt;这种武器只能在Gensokyo起效一次&lt;br&gt;夺走幻想乡内所有人(除贤者等)的能力" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="abYqFGVnjpJUzEvF_15N-52">
+          <mxGeometry x="0.298" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-35" value="激进派&lt;br&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;line-height: 0&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;主张侵略战争，先独吞Gensokyo后再向月都复仇&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1439" width="180" height="97.33" as="geometry" />
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-43" value="中立派&lt;br&gt;不作任何表态，由于大部分成员管理掌握着技术，后演化为类似军队的势力，不倾向任何任何一方，只为有优势的一方提供武器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1282" width="220" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-46" value="A与贤者组谈判" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-50" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;【设定插入】有关两个贤者的抗性分布。&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;两个贤者(包括其他贤者，也包括uuz四季老佛爷等最高级别存在)都自带对这种疾病的免疫，机理是其自身具有能力。&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-682.75" y="424" width="205.5" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-56" value="何时夺取能力装置？&lt;br&gt;-&amp;gt;恢复部分角色能力（带CD）&lt;br&gt;在第二次战争失败时夺取？" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-41.252222222222144" y="3030" as="geometry" />
+        </mxCell>
+        <mxCell id="abYqFGVnjpJUzEvF_15N-58" value="&lt;font style=&quot;font-size: 15px&quot;&gt;经典力学：&lt;br&gt;惯性参考系与转动参考系&lt;br&gt;最小作用量原理、守恒律、守恒律及其参考系变换&lt;br&gt;牛顿万有引力和天体运动基础（我想可能得废之前的稿了）&lt;br&gt;连续体（流体/弹性体概念基础）&lt;br&gt;电磁学：&lt;br&gt;静电场和静磁场的产生规律&lt;br&gt;电路的基本原理&lt;br&gt;电磁波的形成（波导放支线吧）&lt;br&gt;等离子体理论基础（很有必要，哪里都是等离子体、从一杯溶液到太阳表面的磁环全是它）&lt;br&gt;热：&lt;br&gt;热力学参数的由来（压力和温度，可以将无知者那头的内容抽出来重修再用）、理想气体物态方程（你说日后讨论讨论理想气体物态方程是协变的如何？）&lt;br&gt;热力学基本定律、热力学第二定律特殊在哪？&lt;br&gt;卡诺定理&lt;br&gt;统计观点基础和基本假设&lt;br&gt;光：&lt;br&gt;光是电磁波、光的偏振特性&lt;br&gt;几何光学近似&lt;br&gt;简单光学元件和能量特性&lt;br&gt;干涉&lt;br&gt;衍射&lt;br&gt;光与物质的相互作用（衰减和色散）&lt;br&gt;R：&lt;br&gt;SR时空的基本假设和基本推论、SR基本推论的理解（同时同地的相对性，必须要花笔墨了）&lt;br&gt;不知道有没有必要主线就说AB&lt;br&gt;A、切连科夫辐射（主要是好写也有助理解）&lt;br&gt;B、光的各种相对论效应（例如光行差效应、多普勒效应）&lt;br&gt;GR暂且将就一下，引入最短线的概念就算了。支线还有精彩的宇宙学不是么，可惜我现在好久没碰了，已经完全不熟悉了&lt;br&gt;QM：&lt;br&gt;波粒二象性&lt;br&gt;哥本哈根解释、态函数和算符（当然算符不要算，指明它是一种操作就行了吧）&lt;br&gt;测不准原理、观测公理&lt;br&gt;电子自旋和原子能态&lt;br&gt;不知道有没有引入相对论QM的必要，如果放支线写还是得强调一下上面是非相对论的理论&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="1240" width="570" height="800" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
